@@ -1,0 +1,7 @@
+org\selenide\examples\methods\SaucedemoLogin.class
+org\selenide\examples\methods\SaucedemoPage.class
+org\selenide\examples\steps\SaucedemoLoginSteps.class
+org\selenide\examples\AppTest.class
+org\selenide\examples\methods\prueba.class
+org\selenide\examples\steps\SaucedemoPageSteps.class
+org\selenide\examples\steps\pruebaSteps.class
